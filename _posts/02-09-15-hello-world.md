@@ -4,7 +4,7 @@ title: "Ветер"
 author: "Rus with ❤"
 tags: bible
 ---
-{% highlight markdown %}
+{highlight markdown}
 Так как они сеяли ветер, то и пожнут бурю: хлеба на корню не будет у него; зерно не даст муки; а если и даст, то чужие проглотят её.
 Осия 8:7 — Ос 8:7
-{% endhighlight %}
+{endhighlight}
