@@ -5,4 +5,4 @@ author: "Rus with ❤"
 permalink: /about/
 ---
 
-What about me? blah..blah..blah..
+Своего рода геолог
