@@ -5,4 +5,4 @@ author: "Rus with ❤"
 permalink: /about/
 ---
 
-Cвоего рода геолог.
+Своего рода геолог.
