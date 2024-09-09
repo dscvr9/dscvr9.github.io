@@ -79,9 +79,9 @@ Check out tale on [GitHub](https://github.com/chesterhow/tale).
 _This is an image with a caption_
 {% endhighlight %}
 
-![Placeholder image](/assets/1.jpg)
+![Placeholder image](/../main/assets/1.jpg)
 
-![Image with caption](/assets/2.jpg)
+![Image with caption](/../main/assets/2.jpg)
 _This is an image with a caption_
 
 # Code and Syntax Highlighting
